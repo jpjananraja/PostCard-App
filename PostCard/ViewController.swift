@@ -48,6 +48,8 @@ class ViewController: UIViewController {
         sendMailButton.setTitle("Mail Sent", forState: UIControlState.Normal)
         
         
+        //New comment to show up on git hub to test commit
+        
         
         
         
